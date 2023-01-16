@@ -1,0 +1,15 @@
+{
+  "name": "git-change-name",
+  "version": "1.0.0",
+  "description": "封装git mv",
+  "main": "index.js",
+  "bin": {
+    "gcn": "index.js"
+  },
+  "keywords": [],
+  "author": "dy",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
