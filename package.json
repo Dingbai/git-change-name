@@ -1,12 +1,15 @@
 {
   "name": "git-change-name",
-  "version": "1.0.2",
-  "description": "封装git mv",
+  "version": "1.0.5",
+  "description": "git file rename",
   "main": "index.js",
   "bin": {
     "gcn": "index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "git",
+    "mv"
+  ],
   "author": "dy",
   "license": "ISC",
   "dependencies": {
